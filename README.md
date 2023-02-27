@@ -8,20 +8,27 @@
 
 
 
-------
 
 
-<div style="display: flex;">
-  <div style="flex: 1;">
-    <h2>/ about me /</h2>
-    <ul>
-      <li>📚 student of the Polish-Japanese Academy of Information Technology</li>
-      <li>🌌 scientific freak</li>
-      <li>👾 player</li>
-    </ul>
-    <h2>/⭐ Learning and working ⭐ /</h2>
-    <h4> languages </h4>
-    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+----
+
+
+
+
+
+
+<img align="right" height="270px" alt="GIF" src="https://user-images.githubusercontent.com/104169955/221680189-a0f02da4-2548-4565-a786-71201db22a46.gif" />
+
+### About me
+- 📚 student of the Polish-Japanese Academy of Information Technology
+- 🌌 scientific freak
+- 👾 player
+
+<br>
+
+### ⭐ Learning and working ⭐: 
+
+ <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
     <h4> IDEs/Editors </h4>
@@ -33,13 +40,14 @@
     <h4> Database </h4>
     <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
     <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
-    <h4> Something more </h4>
+<br>
+<br>
+<br>
+<br>
 
-  </div>
-  <div>
-    <img src="https://user-images.githubusercontent.com/104169955/221680189-a0f02da4-2548-4565-a786-71201db22a46.gif" style="width: 200px;">
-  </div>
-</div>
+
+
+### Github Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beniab3&layout=compact&theme=rose_pine)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beniab3&show_icons=true&theme=rose_pine)
@@ -47,11 +55,9 @@
 
 
 
-  
+-----
+Credits: [BeniaB3](https://github.com/beniab3)
 
-  
 
 
-------
-Credit: [BeniaB3](https://github.com/BeniaB3)
 
