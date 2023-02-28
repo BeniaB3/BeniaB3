@@ -34,6 +34,9 @@
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,idea,vim&theme=dark)](https://skillicons.dev)
 
+## Others
+[![My Skills](https://skillicons.dev/icons?i=git&theme=dark)](https://skillicons.dev)
+
 
    
 
