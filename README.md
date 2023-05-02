@@ -46,9 +46,12 @@
 
 ### Github Stats
 
-#### Yearly Stats
-
 <table>
+  <tr>
+    <td colspan="2" style="text-align:center;">
+      <h4>Yearly Stats</h4>
+    </td>
+  </tr>
   <tr>
     <td>
       <a href="https://wakatime.com">
@@ -61,15 +64,18 @@
       </a>
     </td>
   </tr>
+  <tr>
+    <td colspan="2" style="text-align:center;">
+      <h4>30 Days Stats</h4>
+      <a href="https://wakatime.com">
+        <img src="https://wakatime.com/share/@BeniaB3/cf7adeab-ccba-4ae5-9871-36dcf2de8551.png" />
+      </a>
+    </td>
+  </tr>
 </table>
 
 
 
-#### 30 Days Stats
-
-<div style="text-align: center;">
-  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@BeniaB3/cf7adeab-ccba-4ae5-9871-36dcf2de8551.png" /></a>
-</div>
 
 -----
 Credits: [BeniaB3](https://github.com/beniab3)
