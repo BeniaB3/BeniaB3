@@ -48,11 +48,6 @@
 
 <table>
   <tr>
-    <td colspan="2" style="text-align:center;">
-      <h4>Yearly Stats</h4>
-    </td>
-  </tr>
-  <tr>
     <td>
       <a href="https://wakatime.com">
         <img src="https://wakatime.com/share/@BeniaB3/d0d27719-8f86-49e2-b351-334c4606879c.png" />
@@ -66,13 +61,13 @@
   </tr>
   <tr>
     <td colspan="2" style="text-align:center;">
-      <h4>30 Days Stats</h4>
       <a href="https://wakatime.com">
         <img src="https://wakatime.com/share/@BeniaB3/cf7adeab-ccba-4ae5-9871-36dcf2de8551.png" />
       </a>
     </td>
   </tr>
 </table>
+
 
 
 
