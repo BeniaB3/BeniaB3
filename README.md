@@ -47,8 +47,8 @@
 ### Github Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beniab3&layout=compact&theme=rose_pine)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beniab3&show_icons=true&theme=rose_pine)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=beniaB3&layout=compact&theme=rose_pine)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BeniaB3&show_icons=true&theme=rose_pine)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=beniab3&layout=compact&theme=rose_pine)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
