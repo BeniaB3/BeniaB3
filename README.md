@@ -48,14 +48,21 @@
 
 #### Yearly Stats
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-    <a href="https://wakatime.com">
+<table>
+  <tr>
+    <td>
+      <a href="https://wakatime.com">
         <img src="https://wakatime.com/share/@BeniaB3/d0d27719-8f86-49e2-b351-334c4606879c.png" />
-    </a>
-    <a href="https://wakatime.com">
+      </a>
+    </td>
+    <td>
+      <a href="https://wakatime.com">
         <img src="https://wakatime.com/share/@BeniaB3/6b17605b-5d20-43e3-ad23-75fb892f3bc9.png" />
-    </a>
-</div>
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 
 #### 30 Days Stats
