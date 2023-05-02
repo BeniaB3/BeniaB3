@@ -45,15 +45,19 @@
 
 
 ### Github Stats
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1; padding-right: 10px;">
-    <a href="https://wakatime.com"><img src="https://wakatime.com/share/@BeniaB3/7f0f9064-3a96-4ef6-9aef-6d986d5cf216.png" width="450" /></a>
-  </div>
-  <div style="flex: 1; padding-left: 10px;">
-    <a href="https://wakatime.com"><img src="https://wakatime.com/share/@BeniaB3/2025dcbc-bd8a-44b1-af5d-23918045b6b3.png" width="450" /></a>
-  </div>
+
+#### Yearly Stats
+
+<div style="display: flex;">
+    <a href="https://wakatime.com"><img src="https://wakatime.com/share/@BeniaB3/d0d27719-8f86-49e2-b351-334c4606879c.png" /></a>
+    <a href="https://wakatime.com"><img src="https://wakatime.com/share/@BeniaB3/6b17605b-5d20-43e3-ad23-75fb892f3bc9.png" /></a>
 </div>
 
+#### 30 Days Stats
+
+<div style="text-align: center;">
+  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@BeniaB3/cf7adeab-ccba-4ae5-9871-36dcf2de8551.png" /></a>
+</div>
 
 -----
 Credits: [BeniaB3](https://github.com/beniab3)
