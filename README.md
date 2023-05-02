@@ -45,11 +45,14 @@
 
 
 ### Github Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beniab3&layout=compact&theme=rose_pine)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BeniaB3&show_icons=true&theme=rose_pine)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=beniab3&layout=compact&theme=rose_pine)](https://github.com/anuraghazra/github-readme-stats)
-
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1; padding-right: 10px;">
+    <a href="https://wakatime.com"><img src="https://wakatime.com/share/@BeniaB3/7f0f9064-3a96-4ef6-9aef-6d986d5cf216.png" width="450" /></a>
+  </div>
+  <div style="flex: 1; padding-left: 10px;">
+    <a href="https://wakatime.com"><img src="https://wakatime.com/share/@BeniaB3/2025dcbc-bd8a-44b1-af5d-23918045b6b3.png" width="450" /></a>
+  </div>
+</div>
 
 
 -----
