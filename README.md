@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Benia</h1>
 <div id="header" align="center">
-  <a href="(https://beniab3.github.io)">
+  <a href="https://beniab3.github.io">
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmFmZTExYTBjNjI3ZTEyYTIwMDhjN2E2YzNiMDhlMDU1NDg1MmRkMyZjdD1n/6vj5quVNRhoQw/giphy.gif" width="100" />
   </a>
 </div>
 <h3 align="center">Welcome to my GitHub</h3>
 <p align="center" style="font-weight: bold; color: rgb(32,178,170) ;">🖕Click Cat to visit my website.🖕</p>
-
 
 
 
